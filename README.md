@@ -1,3 +1,3 @@
 # instagram
 
-instagram-nine-pearl.vercel.app
+https://instagram-nine-pearl.vercel.app
